@@ -1,0 +1,1 @@
+This project presents a low-power CNN accelerator using an optimized Processing Element array with Dadda multipliers and hybrid adders. Designed on FPGA, it reduces power and area while maintaining high performance, making it ideal for edge AI and real-time applications.
